@@ -6,8 +6,10 @@ Springboot-Microservice
 ### Entiry, JPA - Repository, Controller, Service.
 
 ### below is the screenshot attached - response of Postman - Post of Department JSON-Object
+
 </br>
 ### following is the - endpoint of the deployed RESTAPI - [POST] http://localhost:9001/departments/
+
 ![image](https://user-images.githubusercontent.com/40432616/182009646-c53ed555-7169-4bba-9343-7ee3c0d6382c.png)
 
 ### below is the screenshot attached - response of postman - GET - of Department JSON - OBJECT
